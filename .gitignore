@@ -3,3 +3,19 @@
 ################################################################################
 
 /packages
+/.vs/TWS
+/src/TeleSharp.TL/bin
+/src/TeleSharp.TL/obj
+/src/TeleSharp.TL/Properties/AssemblyInfo.cs
+/src/TLSharp.Core/bin
+/src/TLSharp.Core/obj
+/src/TLSharp.Core/Properties
+/src/TWS/bin/Debug/netcoreapp3.1
+/src/TWS/obj
+/src/TWS/Properties
+/src/TWS.Common/bin
+/src/TWS.Common/obj
+/src/TWS.Models/bin
+/src/TWS.Models/obj
+/src/TWS.Services/bin
+/src/TWS.Services/obj

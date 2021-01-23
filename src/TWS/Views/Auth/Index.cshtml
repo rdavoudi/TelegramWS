@@ -1,0 +1,9 @@
+﻿@model string
+
+<form asp-action="Index" method="post" class="form-horizontal">
+    <div>
+        <input value="@Model" name="hash" id="hash" class="form-control" />
+        <input name="code" id="code" class="form-control" />
+    </div>
+    <input type="submit" value="Send" />
+</form>
